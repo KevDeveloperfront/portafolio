@@ -37,7 +37,7 @@ export const projects = [
     title: "KEV'S ANIME ARCHIVE",
     description:
       'Una mini wiki personal de anime, hecha a mano con HTML, CSS y JavaScript puro — sin frameworks, sin backend, sin base de datos, sin proceso de build.',
-    image: placeholder,
+    image: proyecto5,
     alt: 'Captura de KEV\'S ANIME ARCHIVE',
     tags: ['HTML', 'CSS', 'JS'],
     demo: 'https://kevdeveloperfront.github.io/anime_video_club/',
