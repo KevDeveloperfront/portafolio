@@ -2,7 +2,7 @@ import proyecto1 from '../assets/img/Grid/proyecto1.png';
 import proyecto2 from '../assets/img/Grid/proyecto2.png';
 import proyecto4 from '../assets/img/Grid/proyecto4.png';
 import proyecto5 from '../assets/img/Grid/proyecto5.png';
-import proyecto7 from '../assets//'
+import proyecto7 from '../assets/img/Grid/proyecto7.png';
 
 export const projects = [
   {
@@ -38,7 +38,7 @@ export const projects = [
     title: "KEV'S ANIME ARCHIVE",
     description:
       'Una mini wiki personal de anime, hecha a mano con HTML, CSS y JavaScript puro — sin frameworks, sin backend, sin base de datos, sin proceso de build.',
-    image: proyecto5,
+    image: proyecto7,
     alt: 'Captura de KEV\'S ANIME ARCHIVE',
     tags: ['HTML', 'CSS', 'JS'],
     demo: 'https://kevdeveloperfront.github.io/anime_video_club/',
