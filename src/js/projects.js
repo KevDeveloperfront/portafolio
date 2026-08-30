@@ -34,13 +34,13 @@ export const projects = [
     repo: null,
   },
   {
-    title: 'Tu nuevo proyecto',
+    title: "KEV'S ANIME ARCHIVE",
     description:
-      'Describe aquí el proyecto: qué resuelve, qué stack usa y qué aprendiste construyéndolo.',
+      'Una mini wiki personal de anime, hecha a mano con HTML, CSS y JavaScript puro — sin frameworks, sin backend, sin base de datos, sin proceso de build.',
     image: placeholder,
-    alt: 'Captura de Tu nuevo proyecto',
+    alt: 'Captura de KEV\'S ANIME ARCHIVE',
     tags: ['HTML', 'CSS', 'JS'],
-    demo: null,
-    repo: null,
+    demo: 'https://kevdeveloperfront.github.io/anime_video_club/',
+    repo: 'https://github.com/KevDeveloperfront/anime_video_club.git',
   },
 ];
