@@ -1,8 +1,7 @@
-import proyecto1 from '../assets/img/Grid/proyecto1.png';
-import proyecto2 from '../assets/img/Grid/proyecto2.png';
-import proyecto4 from '../assets/img/Grid/proyecto4.png';
-import proyecto5 from '../assets/img/Grid/proyecto5.png';
-import proyecto7 from '../assets/img/Grid/proyecto7.png';
+import proyecto1 from '../assets/img/Grid/proyecto1.webp';
+import proyecto2 from '../assets/img/Grid/proyecto2.webp';
+import proyecto4 from '../assets/img/Grid/proyecto4.webp';
+import proyecto7 from '../assets/img/Grid/proyecto7.webp';
 
 export const projects = [
   {
