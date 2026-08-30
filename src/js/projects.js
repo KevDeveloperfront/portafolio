@@ -1,7 +1,8 @@
 import proyecto1 from '../assets/img/Grid/proyecto1.png';
 import proyecto2 from '../assets/img/Grid/proyecto2.png';
 import proyecto4 from '../assets/img/Grid/proyecto4.png';
-import placeholder from '../assets/img/Grid/placeholder.svg';
+import proyecto5 from '../assets/img/Grid/proyecto5.png';
+import proyecto7 from '../assets//'
 
 export const projects = [
   {
