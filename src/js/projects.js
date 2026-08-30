@@ -11,8 +11,8 @@ export const projects = [
     image: proyecto1,
     alt: 'Captura de Recursos para Desarrolladores Frontend',
     tags: ['HTML', 'CSS', 'JS'],
-    demo: null,
-    repo: null,
+    demo: 'https://lexpin-test.vercel.app/',
+    repo: 'https://github.com/KevDeveloperfront/Lexpin-Test.git',
   },
   {
     title: '¡Hola Mundo! 🚀 El Despegue de tu Presencia Digital',
@@ -21,8 +21,8 @@ export const projects = [
     image: proyecto2,
     alt: 'Captura de la landing page ¡Hola Mundo!',
     tags: ['HTML', 'CSS'],
-    demo: null,
-    repo: null,
+    demo: 'https://kevdeveloperfront.github.io/practica-Lexpin/',
+    repo: 'https://github.com/KevDeveloperfront/practica-Lexpin.git',
   },
   {
     title: 'Curriculum Vitae',
@@ -30,8 +30,8 @@ export const projects = [
     image: proyecto4,
     alt: 'Captura de la plantilla de Curriculum Vitae',
     tags: ['HTML', 'CSS'],
-    demo: null,
-    repo: null,
+    demo: 'https://kevdeveloperfront.github.io/CV-Programmer/',
+    repo: 'https://github.com/KevDeveloperfront/CV-Programmer.git',
   },
   {
     title: "KEV'S ANIME ARCHIVE",
